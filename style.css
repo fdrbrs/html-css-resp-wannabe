@@ -121,4 +121,9 @@ img {
   .container div:last-child{
     padding-bottom: 5px;
   }
+
+  hr{
+    width: 96%;
+    margin: auto;
+  }
 }
